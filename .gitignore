@@ -1,0 +1,44 @@
+### UBI UI
+
+# dependencies
+ubi-ui/node_modules
+ubi-ui/.pnp
+ubi-ui/.pnp.js
+
+# testing
+ubi-ui/coverage
+
+# production
+ubi-ui/build
+
+# misc
+ubi-ui/.DS_Store
+ubi-ui/.env.local
+ubi-ui/.env.development.local
+ubi-ui/.env.test.local
+ubi-ui/.env.production.local
+
+ubi-ui/npm-debug.log*
+ubi-ui/yarn-debug.log*
+ubi-ui/yarn-error.log*
+
+ubi-ui/.env
+
+### UBI SOL
+
+ubi-sol/.vscode
+ubi-sol/node_modules
+ubi-sol/.env
+ubi-sol/coverage
+ubi-sol/coverage.json
+ubi-sol/typechain
+
+#Hardhat files
+ubi-sol/cache
+ubi-sol/artifacts
+ubi-sol/hardhat.config.js
+
+### UBI SERVER
+
+ubi-server/node_modules
+ubi-server/.env
